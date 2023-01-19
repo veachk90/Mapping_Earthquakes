@@ -8,6 +8,6 @@ The first step was to use HTML to get the web page started and to consider the g
 
 #### Results
 
-![Earthquake Map in Action]:(https://github.com/veachk90/Mapping_Earthquakes/blob/main/Screenshot%20(185).png)
+![Earthquake Map in Action]:(https://raw.githubusercontent.com/veachk90/Mapping_Earthquakes/main/Screenshot%20(185).png)
 
 Pretty cool, huh? At this point, the web page and the data presented are relatively simple. However, with this initial project done, there are many addenda that could be made from the data contained in the GeoJSON sources. It could also be interesting to incorporate data that may not be readily available in the sources already used, such as the damage caused by each earthquake. 
